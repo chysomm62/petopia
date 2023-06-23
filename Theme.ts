@@ -12,8 +12,8 @@ const theme = createTheme({
   },
   palette: {
     background: {
-      default: "rgba(255, 255, 255, 1)",
-      paper: "rgba(249, 249, 249, 1)",
+      default: "#FFFFFF",
+      paper: "#EBE5F7",
     },
     primary: {
       main: "#FE4519",
@@ -25,8 +25,8 @@ const theme = createTheme({
       light: "#7786D0",
     },
     text: {
-      primary: "#140400",
-      secondary: "rgba(20, 4, 0, 0.6)",
+      primary: "#0E081E",
+      secondary: "#1C103B",
     },
     success: {
       main: "#64BC26",
